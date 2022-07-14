@@ -1,5 +1,5 @@
 
-# Dark-Mode-Toggle-TAL
+# Toggle-Dark-Mode-TAL
 
 this is for dark mode toggle component ( NPM package ) 
 
@@ -21,7 +21,7 @@ this is for dark mode toggle component ( NPM package )
 To deploy this project, run
 
 ```bash
-npm i dark-mode-toogle-tal
+npm i toggle-dark-mode-tal
 
 ```
 
@@ -30,7 +30,7 @@ npm i dark-mode-toogle-tal
 
 ```javascript
 import './App.css';
-import DarkMode from 'dark-mode-toogle-tal/dist/DarkMode';
+import DarkMode from 'toggle-dark-mode-tal/dist/DarkMode';
 
 function App() {
   return (
