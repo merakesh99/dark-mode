@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/merakesh99/dark-mode"
+    "url": "git+https://github.com/merakesh99/dark-mode.git"
   },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
@@ -63,5 +63,5 @@
     "url": "https://github.com/merakesh99/dark-mode/issues"
   },
   "homepage": "https://github.com/merakesh99/dark-mode#readme",
-  "license": "ISC"
+  "license": "MIT"
 }
